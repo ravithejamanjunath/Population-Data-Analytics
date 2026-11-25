@@ -1,3 +1,5 @@
+# Population Data Analytics Mini Project
+
 A Python mini project that analyses population, density, growth rate, literacy and urbanisation across states and regions using **pandas** and **matplotlib**.
 
 ## Objective
@@ -105,4 +107,3 @@ python make_pdfs.py
 ## License
 
 This project is for educational purposes.
-matplotlib.
